@@ -13,7 +13,7 @@
 ### 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/mribasdev)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter)](https://twitter.com/mribasdev)
-[![Portfolio](https://img.shields.io/badge/-Portfólio-red?style=flat-square)](https://www.seuportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfólio-red?style=flat-square)](https://portfolio-novo-chi.vercel.app/)
 
 ---
 
