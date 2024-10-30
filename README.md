@@ -25,12 +25,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=mribasdev&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mribasdev&layout=compact&theme=radical)
-
----
-
 ### 🏆 Conquistas
 ![Troféu GitHub](https://github-profile-trophy.vercel.app/?username=mribasdev&theme=radical&column=3&margin-w=15&margin-h=15)
 
