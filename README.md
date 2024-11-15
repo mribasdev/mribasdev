@@ -20,8 +20,8 @@
 ### 🛠 Tecnologias e Ferramentas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
-![JAVA](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=postgresql)
 
 ---
 
