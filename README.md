@@ -1,11 +1,6 @@
 # Olá! 👋 Eu sou Moisés Ribas
 
-👨‍💻 **Desenvolvedor Full Stack** | 🚀 **Apaixonado por Tecnologia** | 🌱 Atualmente aprendendo: **React**
-
----
-
-### 🔭 Projetos mais recentes
-- [Bosque Real]() - Site desenvolvido com Next.js e hospedado na Vercel, promovendo a venda de terrenos exclusivos em Mairiporã, SP. Destinado a investidores e pessoas que buscam contato com a natureza, o projeto destaca a valorização imobiliária da região, apresentando informações detalhadas sobre os lotes, localização e potencial de crescimento do empreendimento.
+👨‍💻 **Desenvolvedor Full Stack** | 🌱 Atualmente aprendendo: **React**
 
 ---
 
