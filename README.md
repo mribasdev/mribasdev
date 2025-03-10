@@ -2,7 +2,7 @@
   
   # MOISÉS RIBAS
   
-  ### Desenvolvedor Fullstack | Sempre em Evolução
+  ### Desenvolvedor Fullstack
   
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=650&lines=Olá,+meu+nome+é+Moisés+Ribas;Sou+desenvolvedor+fullstack;Sempre+busco+evoluir+na+programação&font=Fira%20Code&duration=4000&pause=1000" alt="Typing SVG" />
   
