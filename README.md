@@ -19,14 +19,10 @@
     <img src="https://skillicons.dev/icons?i=selenium,postman" />
 
   <h4>Banco de Dados</h4>
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,sql" />
   </div>
 
  
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=mribasdev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
   
  
 
