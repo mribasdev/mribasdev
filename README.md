@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=selenium,postman" />
 
   <h4>Banco de Dados</h4>
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,sql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
   </div>
 
  
