@@ -11,8 +11,10 @@
 
  
   <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,nodejs,docker,postman,vercel,mongodb,postgres" />
+<a href="https://skillicons.dev">
+  <img 
+    src="https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,nodejs,docker,postman,vercel,mongodb,postgres,java,selenium,puppeteer"
+  />
 </a>
   <br />
 
