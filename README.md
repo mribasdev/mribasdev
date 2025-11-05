@@ -11,13 +11,15 @@
 
  
   <div align="center" >
-<a href="https://skillicons.dev">
-  <img 
-    src="https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,nodejs,docker,postman,vercel,mongodb,postgres,java,selenium,puppeteer"
-  />
-</a>
-  <br />
 
+  <h4>Linguagens</h4>
+    <img src="https://skillicons.dev/icons?i=java,typescript,javascript" />
+
+  <h4>Automação de Testes</h4>
+    <img src="https://skillicons.dev/icons?i=selenium,postman" />
+
+  <h4>Banco de Dados</h4>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
   </div>
 
  
